@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/media/data/Uchebka/diplom/second wind/build",
+  "command": "/usr/bin/g++ -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/core\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/modules\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/utils\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/config\" -I/usr/include/leptonica -I/usr/include/python3.14 -g -std=gnu++20 -Wall -Wextra -pedantic -o CMakeFiles/translator_core.dir/core/CoreEngine.cpp.o -c \"/media/data/Uchebka/diplom/second wind/app/real_time_translator/core/CoreEngine.cpp\"",
+  "file": "/media/data/Uchebka/diplom/second wind/app/real_time_translator/core/CoreEngine.cpp",
+  "output": "/media/data/Uchebka/diplom/second wind/build/CMakeFiles/translator_core.dir/core/CoreEngine.cpp.o"
+},
+{
+  "directory": "/media/data/Uchebka/diplom/second wind/build",
+  "command": "/usr/bin/g++ -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/core\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/modules\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/utils\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/config\" -I/usr/include/leptonica -I/usr/include/python3.14 -g -std=gnu++20 -Wall -Wextra -pedantic -o CMakeFiles/translator_core.dir/core/Interfaces.cpp.o -c \"/media/data/Uchebka/diplom/second wind/app/real_time_translator/core/Interfaces.cpp\"",
+  "file": "/media/data/Uchebka/diplom/second wind/app/real_time_translator/core/Interfaces.cpp",
+  "output": "/media/data/Uchebka/diplom/second wind/build/CMakeFiles/translator_core.dir/core/Interfaces.cpp.o"
+},
+{
+  "directory": "/media/data/Uchebka/diplom/second wind/build",
+  "command": "/usr/bin/g++ -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/core\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/modules\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/utils\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/config\" -I/usr/include/leptonica -I/usr/include/python3.14 -g -std=gnu++20 -Wall -Wextra -pedantic -o CMakeFiles/translator_core.dir/utils/LatestQueue.cpp.o -c \"/media/data/Uchebka/diplom/second wind/app/real_time_translator/utils/LatestQueue.cpp\"",
+  "file": "/media/data/Uchebka/diplom/second wind/app/real_time_translator/utils/LatestQueue.cpp",
+  "output": "/media/data/Uchebka/diplom/second wind/build/CMakeFiles/translator_core.dir/utils/LatestQueue.cpp.o"
+},
+{
+  "directory": "/media/data/Uchebka/diplom/second wind/build",
+  "command": "/usr/bin/g++ -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/core\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/modules\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/utils\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/config\" -I/usr/include/leptonica -I/usr/include/python3.14 -g -std=gnu++20 -Wall -Wextra -pedantic -o CMakeFiles/translator_core.dir/utils/ThreadPool.cpp.o -c \"/media/data/Uchebka/diplom/second wind/app/real_time_translator/utils/ThreadPool.cpp\"",
+  "file": "/media/data/Uchebka/diplom/second wind/app/real_time_translator/utils/ThreadPool.cpp",
+  "output": "/media/data/Uchebka/diplom/second wind/build/CMakeFiles/translator_core.dir/utils/ThreadPool.cpp.o"
+},
+{
+  "directory": "/media/data/Uchebka/diplom/second wind/build",
+  "command": "/usr/bin/g++ -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/core\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/modules\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/utils\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/config\" -I/usr/include/leptonica -I/usr/include/python3.14 -g -std=gnu++20 -Wall -Wextra -pedantic -o CMakeFiles/translator_core.dir/utils/Logger.cpp.o -c \"/media/data/Uchebka/diplom/second wind/app/real_time_translator/utils/Logger.cpp\"",
+  "file": "/media/data/Uchebka/diplom/second wind/app/real_time_translator/utils/Logger.cpp",
+  "output": "/media/data/Uchebka/diplom/second wind/build/CMakeFiles/translator_core.dir/utils/Logger.cpp.o"
+},
+{
+  "directory": "/media/data/Uchebka/diplom/second wind/build",
+  "command": "/usr/bin/g++ -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/core\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/modules\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/utils\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/config\" -I/usr/include/leptonica -I/usr/include/python3.14 -g -std=gnu++20 -Wall -Wextra -pedantic -o CMakeFiles/translator_core.dir/utils/ConfigManager.cpp.o -c \"/media/data/Uchebka/diplom/second wind/app/real_time_translator/utils/ConfigManager.cpp\"",
+  "file": "/media/data/Uchebka/diplom/second wind/app/real_time_translator/utils/ConfigManager.cpp",
+  "output": "/media/data/Uchebka/diplom/second wind/build/CMakeFiles/translator_core.dir/utils/ConfigManager.cpp.o"
+},
+{
+  "directory": "/media/data/Uchebka/diplom/second wind/build",
+  "command": "/usr/bin/g++ -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/core\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/modules\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/utils\" -I\"/media/data/Uchebka/diplom/second wind/app/real_time_translator/config\" -I/usr/include/leptonica -I/usr/include/python3.14 -g -std=gnu++20 -Wall -Wextra -pedantic -DWITH_GZFILEOP -o CMakeFiles/translator_app.dir/main.cpp.o -c \"/media/data/Uchebka/diplom/second wind/app/real_time_translator/main.cpp\"",
+  "file": "/media/data/Uchebka/diplom/second wind/app/real_time_translator/main.cpp",
+  "output": "/media/data/Uchebka/diplom/second wind/build/CMakeFiles/translator_app.dir/main.cpp.o"
+}
+]

@@ -1,0 +1,8 @@
+/media/data/Uchebka/diplom/second wind/build/CMakeFiles/translator_core.dir
+/media/data/Uchebka/diplom/second wind/build/CMakeFiles/translator_app.dir
+/media/data/Uchebka/diplom/second wind/build/CMakeFiles/edit_cache.dir
+/media/data/Uchebka/diplom/second wind/build/CMakeFiles/rebuild_cache.dir
+/media/data/Uchebka/diplom/second wind/build/CMakeFiles/list_install_components.dir
+/media/data/Uchebka/diplom/second wind/build/CMakeFiles/install.dir
+/media/data/Uchebka/diplom/second wind/build/CMakeFiles/install/local.dir
+/media/data/Uchebka/diplom/second wind/build/CMakeFiles/install/strip.dir

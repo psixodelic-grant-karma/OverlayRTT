@@ -1,0 +1,10 @@
+models:
+  - model.bin
+vocabs:
+  - vocab.spm
+  - vocab.spm
+shortlist:
+  - lex.s2t.bin
+  - 50
+  - 50
+quality: []

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtranslator_core.a CMakeFiles/translator_core.dir/core/CoreEngine.cpp.o CMakeFiles/translator_core.dir/core/Interfaces.cpp.o CMakeFiles/translator_core.dir/utils/LatestQueue.cpp.o CMakeFiles/translator_core.dir/utils/ThreadPool.cpp.o CMakeFiles/translator_core.dir/utils/Logger.cpp.o CMakeFiles/translator_core.dir/utils/ConfigManager.cpp.o
+/usr/bin/ranlib libtranslator_core.a

@@ -1,0 +1,82 @@
+{
+    "capture": {
+        "backend": "dxgi",
+        "source": {
+            "type": "FullScreen",
+            "hwnd": null,
+            "region": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1080
+            }
+        },
+        "mode": "Hybrid",
+        "timerIntervalMs": 16,
+        "ignoreRegions": [],
+        "format": "RGBA"
+    },
+    "ocr": {
+        "engine": "tesseract",
+        "languages": ["eng", "rus"],
+        "preprocessing": [],
+        "textTracking": true,
+        "minTextSize": 8.0
+    },
+    "translator": {
+        "modelPath": "",
+        "sourceLanguage": "auto",
+        "targetLanguage": "ru",
+        "cacheSize": 1000,
+        "threads": 4,
+        "params": {
+            "temperature": 0.7,
+            "topP": 40,
+            "topK": 40,
+            "maxTokens": 256
+        }
+    },
+    "overlay": {
+        "bgMode": "Fixed",
+        "bgColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 180
+        },
+        "bgAlpha": 180.0,
+        "textStyle": {
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "fontFamily": "Arial",
+            "fontSize": 14,
+            "bold": false,
+            "italic": false,
+            "outline": 0.0
+        },
+        "autoFontMatch": false,
+        "separateWindow": false,
+        "hotkeys": [
+            {
+                "id": 1,
+                "keys": [17, 84],
+                "description": "Toggle overlay (Ctrl+T)"
+            },
+            {
+                "id": 2,
+                "keys": [17, 80],
+                "description": "Pause capture (Ctrl+P)"
+            }
+        ]
+    },
+    "general": {
+        "startMinimized": false,
+        "autoStart": false,
+        "logLevel": "Info",
+        "logFile": "logs/translator.log"
+    }
+}

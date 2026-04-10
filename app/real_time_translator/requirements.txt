@@ -1,0 +1,34 @@
+# Системные зависимости для сборки Real-Time Screen Translator
+# Ubuntu/Debian
+
+## Основные зависимости
+build-essential
+cmake
+pkg-config
+
+## C++ библиотеки
+libx11-dev
+libxext-dev
+libxfixes-dev
+libice-dev
+libxcb1-dev
+libxcb-render0-dev
+libxcb-shape0-dev
+
+## Tesseract OCR
+libtesseract-dev
+libleptonica-dev
+
+## FFmpeg
+libavformat-dev
+libavcodec-dev
+libswscale-dev
+libavutil-dev
+libavdevice-dev
+
+## Опционально (для дополнительных переводчиков)
+libcurl4-openssl-dev
+python3-dev
+
+# Установка:
+# sudo apt install $(cat requirements.txt | grep -v "^#" | tr "\n" " ")
